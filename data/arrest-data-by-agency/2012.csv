@@ -9,11 +9,11 @@ agency,population,adult-arrests,juvenile-arrests,adult-arrests-per-1000,juvenile
 "Tremonton PD","7,790","252","95","32.35","12.20"
 "Willard PD","1,746","58","1","33.22","0.57"
 "Cache County Sheriff","43,834","1406","533","32.08","12.16"
-"Cache-Rich Drug Task Force","0","96","2"
+"Cache-Rich Drug Task Force","0","96","2",,
 "Logan PD","48,879","1727","725","35.33","14.83"
 "North Park PD","12,819","172","76","13.42","5.93"
 "Smithfield PD","9,988","138","36","13.82","3.60"
-"Utah State University PD","0","37","0"
+"Utah State University PD","0","37","0",,
 "Carbon County Sheriff","7,486","90","12","12.02","1.60"
 "East Carbon PD","1,277","281","60","220.05","46.99"
 "Helper PD","2,189","66","8","30.15","3.65"
@@ -26,7 +26,7 @@ agency,population,adult-arrests,juvenile-arrests,adult-arrests-per-1000,juvenile
 "Centerville PD","16,203","1025","78","63.26","4.81"
 "Clearfield PD","30,376","795","331","26.17","10.90"
 "Clinton PD","20,805","205","35","9.85","1.68"
-"Davis County Task Force","0","133","6"
+"Davis County Task Force","0","133","6",,
 "Farmington PD","20,750","582","122","28.05","5.88"
 "Kaysville PD","28,283","389","111","13.75","3.92"
 "Layton PD","68,677","1854","735","27.00","10.70"

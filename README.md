@@ -1,6 +1,6 @@
 crime-stats-utah
 ================
 
-Crime statistics for the State of Utah extracted from PDFs on the State website.
+Crime statistics for the State of Utah extracted from PDFs on the State of Utah website.
 
-(Source: http://publicsafety.utah.gov/bci/crimestatistics.html)
+(Source: https://bci.utah.gov/utah-crime-statistics/)
